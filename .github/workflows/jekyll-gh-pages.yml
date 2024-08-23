@@ -37,6 +37,9 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+      - name: Setup PHP Action
+        uses: shivammathur/setup-php@2.31.1
+            
 
   # Deployment job
   deploy:
