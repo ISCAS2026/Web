@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>IEEE ISCAS 2024 | Organizing Committee</title>
+    <title>IEEE ISCAS 2026 | Organizing Committee</title>
     <?php include '../include/header_1.html';?>
 </head>
 
